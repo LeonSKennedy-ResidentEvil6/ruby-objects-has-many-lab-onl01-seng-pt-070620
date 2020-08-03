@@ -24,10 +24,4 @@ class Song
     @@all
   end
 
-  # takes in arg of a song, associates it with artist, belongs to, that artist
-  def add_song(song)
-
-  end
-
-
 end
