@@ -27,11 +27,11 @@ class Song
   # knows the name of its artist
   # returns nil if the song does not have an artist
   def artist_name
-    if song.artist = ""
-      nil
-    else
-    self.artist.name
-  end 
+      if song.artist = ""
+        nil
+      else
+      self.artist.name
+    end
   end
 
 end
