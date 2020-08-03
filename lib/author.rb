@@ -17,6 +17,7 @@ class Author
   end
 
   def def_post_by_title
-  end 
+    
+  end
 
 end
