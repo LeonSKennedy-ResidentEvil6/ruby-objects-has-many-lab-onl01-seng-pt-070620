@@ -24,4 +24,6 @@ class Song
     @@all
   end
 
+  # knows the name of its artist
+
 end
