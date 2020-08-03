@@ -24,4 +24,6 @@ class Post
     @title
   end
 
+    # knows the name of its author
+
 end
