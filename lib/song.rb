@@ -28,9 +28,9 @@ class Song
   # returns nil if the song does not have an artist
   def artist_name
       if artist
-        nil
+        self.artist.name
       else
-      self.artist.name
+
     end
   end
 
