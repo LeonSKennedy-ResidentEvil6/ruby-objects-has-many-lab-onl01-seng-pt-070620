@@ -25,5 +25,6 @@ class Song
   end
 
   # knows the name of its artist
+  # returns nil if the song does not have an artist
 
 end
