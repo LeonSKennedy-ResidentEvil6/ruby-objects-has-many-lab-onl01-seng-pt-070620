@@ -26,6 +26,7 @@ class Post
 
   # knows the name of its author
   def author_name
-  end 
+    
+  end
 
 end
