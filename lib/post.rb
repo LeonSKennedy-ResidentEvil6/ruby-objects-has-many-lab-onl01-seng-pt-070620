@@ -21,5 +21,7 @@ class Post
   end
 
   def title
+    @title
+  end 
 
 end
