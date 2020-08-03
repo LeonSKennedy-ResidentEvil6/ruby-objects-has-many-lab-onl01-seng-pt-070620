@@ -20,6 +20,6 @@ class Post
     @@all
   end
 
-  def 
+  def title
 
 end
