@@ -27,4 +27,6 @@ class Author
     Post.all.count
   end
 
+  # knows the name of its author
+
 end
