@@ -19,6 +19,7 @@ class Author
   # take in arg & post title, create new post, associate it with author
   def add_post_by_title(post)
     post = Post.new(post)
+    post.author = 
   end
 
 end
