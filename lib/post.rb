@@ -18,6 +18,10 @@ class Post
 
   def posts
     @@all
+  end
+
+  def title
+    @title
   end 
 
 end
