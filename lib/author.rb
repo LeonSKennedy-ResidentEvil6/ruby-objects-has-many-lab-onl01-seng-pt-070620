@@ -18,7 +18,7 @@ class Author
 
   # take in arg & post title, create new
   def add_post_by_title
-    
+
   end
 
 end
